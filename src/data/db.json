@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "password": "",
+      "birthdate": "",
+      "username": "",
+      "phone": "",
+      "userId": ""
+    }
+  ],
+  "following": [
+    {
+      "id": 1,
+      "username": "",
+      "followerId": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": "",
+      "urlContent": "",
+      "description": "",
+      "likesQuantity": "",
+      "commentsQuantity": ""
+    }
+  ]
+}
